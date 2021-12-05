@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982412138031",
+    "project_id": "epetsapp-531fa",
+    "storage_bucket": "epetsapp-531fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982412138031:android:159a716ec4773ab950d8da",
+        "android_client_info": {
+          "package_name": "com.epetsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982412138031-pv9vlsbj4k1t2u7j4na60il540gli9eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epetsapp",
+            "certificate_hash": "244836c8939e4bea38abd2457c3166dba8e5ea4c"
+          }
+        },
+        {
+          "client_id": "982412138031-bk35eqt3hoidl3uei9k9ga5pd9d1095j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFtxZVJnsW0-D6rBcKYuHfi3J7wVLLqI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982412138031-bk35eqt3hoidl3uei9k9ga5pd9d1095j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
